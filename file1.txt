@@ -1,2 +1,3 @@
 primul fisier
 noi modificari remote
+alte modificari dupa 3 commituri locale
